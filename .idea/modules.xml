@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.nero.io.stream.iml" filepath="$PROJECT_DIR$/com.nero.io.stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-stream/object-stream.iml" filepath="$PROJECT_DIR$/object-stream/object-stream.iml" />
+    </modules>
+  </component>
+</project>
