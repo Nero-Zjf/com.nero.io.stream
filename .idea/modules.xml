@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.nero.io.stream.iml" filepath="$PROJECT_DIR$/com.nero.io.stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/object-stream/object-stream.iml" filepath="$PROJECT_DIR$/object-stream/object-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piped-stream/piped-stream.iml" filepath="$PROJECT_DIR$/piped-stream/piped-stream.iml" />
     </modules>
   </component>
 </project>
